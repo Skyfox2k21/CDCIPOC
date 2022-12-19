@@ -1,9 +1,3 @@
-import java.util.Scanner
-import java.io.IOException
-import java.net.HttpURLConnection
-import java.net.MalformedURLException
-import java.net.URISyntaxException
-import java.net.URL
 import groovy.json.JsonSlurperClassic
 node {
 
